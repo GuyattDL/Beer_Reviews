@@ -1,7 +1,7 @@
 # Beer_Reviews
 A project which mimics the TCB Analytics interview kit for hiring data scientists.
 
-At the Strata Data Conference, 2017, Tanya Cashorali of TCB Analytics introduced the "One-Size-Fits-All Interivew Kit" which she and her employer used to hire and test for data skills.
+At the Strata Data Conference, 2017, Tanya Cashorali of TCB Analytics introduced the "One-Size-Fits-All Interivew Kit" which she and her colleagues used to hire and test for data skills.
 
 A recording of the conference talk can be found here: https://www.youtube.com/watch?v=WUDI8fkzSww
 
